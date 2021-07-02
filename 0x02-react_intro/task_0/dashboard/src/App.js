@@ -1,4 +1,4 @@
-import holbertonLogo from './holbertonLogo.jpg';
+import holbertonLogo from './holbertonLogo';
 import './App.css';
 
 function App() {
@@ -22,3 +22,4 @@ function App() {
 }
 
 export default App;
+
