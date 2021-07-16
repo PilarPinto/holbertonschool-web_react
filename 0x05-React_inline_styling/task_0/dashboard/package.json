@@ -24,7 +24,7 @@
     "test-watch": "jest --watch"
   },
   "keywords": [],
-  "author": "Angel Pedroza",
+  "author": "Author",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.16",
