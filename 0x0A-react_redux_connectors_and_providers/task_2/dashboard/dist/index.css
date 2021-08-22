@@ -1,0 +1,4 @@
+/*It makes invisible the scrollbar without disabling it*/
+body::-webkit-scrollbar {
+	display: none;
+}
